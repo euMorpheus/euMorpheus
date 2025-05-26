@@ -34,8 +34,8 @@ Sou apaixonado por tecnologia e desenvolvimento web. Sempre em busca de novos de
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morpheus&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morpheus&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=euMorpheus&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euMorpheus&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
